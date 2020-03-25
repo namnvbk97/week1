@@ -30,7 +30,7 @@ def question():
             break
         elif answer != "no":
                 answer=input("answer is wrong,please again :")
-        else :
+        elif answer == "no": 
             mon=""
             break
     state_list.remove(state_ramdom)
