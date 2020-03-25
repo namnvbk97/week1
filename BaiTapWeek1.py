@@ -13,7 +13,7 @@ ingredients={
     "salty":["olive on stick","salt-dusted rim","rasher of bacon"],
     "bitter":["shake of bitters","splash of tonic","twist of lemon peel"],
     "sweet":["sugar cube","spoonful of honey","spash of cola"],
-    "fruily":["slice of orange","dash of cassis","cherry on top"],
+    "fruity":["slice of orange","dash of cassis","cherry on top"],
     }
 state_list=list(questions)
 kickthuoc=len(state_list)
